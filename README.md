@@ -36,4 +36,3 @@ System architecture, execution design, and evaluation framework for Computer-Usi
 * **Agent Frameworks:** LangChain, CrewAI, LlamaIndex
 * **Models & APIs:** OpenAI GPT-4, Claude 3.5 Sonnet
 * **Evaluation & Tracking:** LangSmith, Custom LLM-as-a-Judge rubrics
-  
